@@ -26,5 +26,5 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/matheussilvams"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;<a href="mailto:matsilvaj@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://linkedin.com/in/matheussilvams"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>&nbsp;&nbsp;<a href="mailto:matsilvamsj@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 </p>
