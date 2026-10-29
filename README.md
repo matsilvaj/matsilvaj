@@ -25,10 +25,6 @@ Estudante de **Ciência da Computação** no início da carreira em tecnologia. 
 | [rezuma-web](https://github.com/matsilvaj/rezuma-web) | Front-end do Rezuma |
 | [rezuma-api](https://github.com/matsilvaj/rezuma-api) | API e automação de resumos |
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matsilvaj&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsilvaj&layout=compact&hide_border=true)
 
 ## 📫 Contato
 
